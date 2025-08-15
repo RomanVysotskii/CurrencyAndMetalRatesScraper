@@ -12,7 +12,7 @@
 
 Стоимость валют сохраняется в удобный CSV-файл, а стоимость металлов в txt-файл.
 
-##Установка
+## Установка
 git clone https://github.com/RomanVysotskii/CurrencyAndMetalRatesScraper
 cd project
 pip install -r requirements.txt
